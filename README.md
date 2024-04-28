@@ -11,9 +11,8 @@ I am a proactive Senior Data Engineer with a keen focus on optimizing and archit
 I love making generalized solutions to a problem as a framework so that it can be used by wider audience.
 
 ### My Digital Garden 🌱
-I write a weekly tech newsletter on my website. The main purpose of this newsletter is to help people become a better Data Engineer by helping them in upgrading there skills to the next level while learning new things in the data space myself on the way. 
+I write a weekly tech newsletter on my [website](https://guptaakashdeep.com). The main purpose of this newsletter is to help people become a better Data Engineer by helping them in upgrading there skills to the next level while learning new things in the data space myself on the way. 
 
-In the weekly posts that I write you will find stuffs
 
 ### Tech Stack
 - Apache Spark
