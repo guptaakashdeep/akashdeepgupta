@@ -17,7 +17,7 @@ I love making generalized, robust, scalable and cost-optimized solutions to a pr
 I write a weekly tech newsletter called [The Pragmatic Data Engineer's Playbook](https://guptaakashdeep.com).
 The main purpose of this newsletter is to help people become a better Data Engineer by helping them in upgrading there skills to the next level.
 
-PDEP covers the Deep Dives on Data Engineering Tech, Distributed Data Systems and 
+PDEP covers the Deep Dives on Data Engineering Tech, Distributed Data Systems, Optimization Techniques, and Data Architecture.
 
 ## Tech Stack
 
@@ -29,6 +29,8 @@ PDEP covers the Deep Dives on Data Engineering Tech, Distributed Data Systems an
 - Apache Iceberg
 - Apache Hudi
 - Apache Arrow
+- Apache Flink
+- Apache Kafka
 - Databricks
 - Delta Lake
 - Python
@@ -41,7 +43,7 @@ PDEP covers the Deep Dives on Data Engineering Tech, Distributed Data Systems an
 
 - [SparkExceptionLogger](https://github.com/guptaakashdeep/SparkExceptionLogger) - A Lightweight Easy-to-Integrate Custom Spark Exception Logger written in Python to log all the exception details from a Spark Job into an S3 Location or a Table that can be queried via any Query Engine like Athena, Trino, DuckDB etc.
 - [Concepts-Library](https://github.com/guptaakashdeep/Concepts-Library) - A collection of practical examples and implementations showcasing key concepts for Apache Spark and Apache Airflow.
-- [spark-minio-project](https://github.com/guptaakashdeep/spark-minio-project) - Builds a Spark Standalone Cluster on Docker in local with MinIO integration
+- [spark-minio-project](https://github.com/guptaakashdeep/spark-minio-project) - Builds a Spark Standalone Cluster on Docker in local with MinIO integration.
 - [easy-alterator](https://github.com/guptaakashdeep/easy-alterator) - A utility for altering v1 Parquet External tables which uses AWS Glue Catalog as Hive metastore. Implemeted using AWS Boto3.
 - [backfeed-generator](backfeed-generator) - Airflow Workflow for generating a gzipped feed csv file from an Hive/Athena table along with checksum, DDL and control file. This implementation is via Python, Apache Spark and Bash script.
 - [WAP-Implementation](https://github.com/guptaakashdeep/WAP-implementation) - Write Audit Publish Data Quality Pattern implementation using Apache Spark with Apache Iceberg Tables on AWS with AWS Glue Catalog for both Icerberg version < 1.2.0 and version >= 1.2.0 . Also includes Auditing data using AWS PyDeequ.
