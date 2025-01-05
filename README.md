@@ -12,16 +12,12 @@ I love making generalized, robust, scalable and cost-optimized solutions to a pr
 
 ## My Newsletter 🌱
 
----
-
 I write a weekly tech newsletter called [The Pragmatic Data Engineer's Playbook](https://guptaakashdeep.com).
 The main purpose of this newsletter is to help people become a better Data Engineer by helping them in upgrading there skills to the next level.
 
 PDEP covers the Deep Dives on Data Engineering Tech, Distributed Data Systems, Optimization Techniques, and Data Architecture.
 
 ## Tech Stack
-
----
 
 - Apache Spark
 - AWS
@@ -38,8 +34,6 @@ PDEP covers the Deep Dives on Data Engineering Tech, Distributed Data Systems, O
 - Rust (learning)
 
 ## My GitHub Repositories
-
----
 
 - [SparkExceptionLogger](https://github.com/guptaakashdeep/SparkExceptionLogger) - A Lightweight Easy-to-Integrate Custom Spark Exception Logger written in Python to log all the exception details from a Spark Job into an S3 Location or a Table that can be queried via any Query Engine like Athena, Trino, DuckDB etc.
 - [Concepts-Library](https://github.com/guptaakashdeep/Concepts-Library) - A collection of practical examples and implementations showcasing key concepts for Apache Spark and Apache Airflow.
